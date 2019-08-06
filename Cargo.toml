@@ -4,6 +4,12 @@ version = "0.1.0"
 authors = ["Sally Soul <SallySoul@protonmail.com>"]
 edition = "2018"
 
+license = "MIT"
+description = "A library for building world to camera space transforms, includes an arc ball implementation"
+homepage = "https://github.com/SallySoul/camera_ss"
+repository = "https://github.com/SallySoul/camera_ss"
+readme = "README.md"
+
 [dependencies]
 assert = "0.7.4"
 cgmath = "0.16.1"
