@@ -12,5 +12,5 @@ readme = "README.md"
 
 [dependencies]
 assert = "0.7.4"
-cgmath = "0.16.1"
-getset = "0.0.6"
+cgmath = "0.17.0"
+getset = "0.0.7"
